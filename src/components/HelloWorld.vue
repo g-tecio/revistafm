@@ -6,6 +6,7 @@
       mmm how this will look in the screen?
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
+    <h1> Bienvenida Teresita </h1>
   </div>
 </template>
 
